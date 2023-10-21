@@ -1,0 +1,25 @@
+* {
+  background-color: #eee;
+  widget-animation-duration: 1000;
+}
+
+QLineEdit {
+  font-size: 15px;
+  border: 1px none gray;
+  padding: 3px 8px;
+  selection-background-color: darkgray;
+}
+
+QLineEdit:hover {
+  border: 2px dashed gray;
+}
+
+QLineEdit:focus {
+  border: 2px solid gray;
+  background-color: #ddd;
+  font-weight: bolder;
+}
+
+QLabel {
+  font-size: 20px;
+}

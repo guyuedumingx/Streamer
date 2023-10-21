@@ -1,0 +1,8 @@
+*.csv
+*.json
+*.xlsx
+*.xls
+*.zip
+*.7z
+.vscode/
+__pycache__/
